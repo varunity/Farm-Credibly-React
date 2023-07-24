@@ -16,7 +16,8 @@ const Card = (props) => {
 }
 
 Card.defaultProps = {
-  text1: 'Amet minim mollit non deserunt ullamco est sit aliqua dolor do.',
+  text1:
+    'Even if you are not a farmer, we can help to take your business to the next level.',
   rootClassName: '',
   text: 'Business',
 }
