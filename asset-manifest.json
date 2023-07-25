@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Farm-Credibly-React/static/css/main.12cc28c2.css",
+    "main.js": "/Farm-Credibly-React/static/js/main.d22a93be.js",
+    "index.html": "/Farm-Credibly-React/index.html",
+    "main.12cc28c2.css.map": "/Farm-Credibly-React/static/css/main.12cc28c2.css.map",
+    "main.d22a93be.js.map": "/Farm-Credibly-React/static/js/main.d22a93be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12cc28c2.css",
+    "static/js/main.d22a93be.js"
+  ]
+}
