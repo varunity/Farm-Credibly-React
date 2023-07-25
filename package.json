@@ -2,6 +2,7 @@
   "name": "farm-credibly",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://varunity.github.io/Farm-Credibly-React",
   "dependencies": {
     "@craco/craco": "^7.0.0-alpha.0",
     "react": "^17.0.2",
@@ -12,6 +13,8 @@
   },
   "scripts": {
     "start": "craco start",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "build": "craco build",
     "test": "craco test --env=jsdom",
     "eject": "craco eject"
@@ -32,6 +35,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "react-scripts": "^5.0.1"
   }
 }
